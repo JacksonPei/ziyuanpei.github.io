@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Academic Info"
-description              : "Test "
+description              : ""
 repository               : "JacksonPei/ziyuanpei.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,9 +22,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Ziyuan Pei"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
-  location         : "Beijing, China"
+  avatar           : "images/person.png"
+  bio              : "Shanghai Jiao Tong University<br>Master Student. Focusing on RAG, Context Engineering, and LLM-based applications"
+  location         : "Shanghai, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=F1DUfAMAAAAJ"
