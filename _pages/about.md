@@ -27,7 +27,7 @@ I am a second-year graduate student at the Data Driven Software Technology(DDST)
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/neurips2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[Influence Guided Context Selection for Effective Retrieval-Augmented Generation](https://openreview.net/pdf?id=ugaepulZyA)**
+**Influence Guided Context Selection for Effective Retrieval-Augmented Generation**
 
 Jiale Deng, Yanyan Shen, **Ziyuan Pei**, Youmin Chen, Linpeng Huang
 
