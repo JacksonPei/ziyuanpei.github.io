@@ -27,11 +27,11 @@ I am a second-year graduate student at the Data Driven Software Technology(DDST)
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/neurips2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Influence Guided Context Selection for Effective Retrieval-Augmented Generation]([https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf](https://openreview.net/pdf?id=ugaepulZyA))
+**[Influence Guided Context Selection for Effective Retrieval-Augmented Generation](https://openreview.net/pdf?id=ugaepulZyA)**
 
 Jiale Deng, Yanyan Shen, **Ziyuan Pei**, Youmin Chen, Linpeng Huang
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='F1DUfAMAAAAJ:YsMSGLbcyi4C'></span></strong>
+[**Project**]([https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=F1DUfAMAAAAJ&citation_for_view=F1DUfAMAAAAJ:YsMSGLbcyi4C)) <strong><span class='show_paper_citations' data='F1DUfAMAAAAJ:YsMSGLbcyi4C'></span></strong>
 - Proposes a method for automatic context document selection in the RAG scenario called CSM. Specifically, we introduce the use of Contextual Influence (CI) values to measure the usefulness of contexts. Two training methods, Supervised training and end-to-end training, are employed to train the CSM model to predict context CI values. During inference, CSM predicts the CI values for all contexts and selects those with CI values greater than 0. We provide extensive experimental evidence demonstrating the effectiveness of CSM. 
 </div>
 </div>
