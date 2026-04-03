@@ -5,7 +5,7 @@ excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
-  - /about.html
+  - /_config.yml
 ---
 
 {% if site.google_scholar_stats_use_cdn %}
