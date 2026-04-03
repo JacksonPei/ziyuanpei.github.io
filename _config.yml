@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Ziyuan Pei (裴梓源)"
   avatar           : "images/person.png"
-  bio              : "Shanghai Jiao Tong University<br>Master Student. Focusing on RAG, Context Engineering, and LLM-based applications"
+  bio              : "Shanghai Jiao Tong University<br>Master Student. Focusing on RAG, Context Engineering, and LLM-based applications<br> Email: pzy_live@sjtu.edu.cn"
   location         : "Shanghai, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=F1DUfAMAAAAJ"
-  email            : "pzy_live@sjtu.edu.cn"
+  email            :  # 
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
