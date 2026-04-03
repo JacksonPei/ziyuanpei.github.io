@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Ziyuan Pei"
+  name             : "Ziyuan Pei (裴梓源)"
   avatar           : "images/person.png"
   bio              : "Shanghai Jiao Tong University<br>Master Student. Focusing on RAG, Context Engineering, and LLM-based applications"
   location         : "Shanghai, China"
