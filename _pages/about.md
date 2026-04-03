@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a second-year graduate student at the Data Driven Software Technology(DDST) Laboratory of Shanghai Jiao Tong University, focusing on RAG, Context Engineering and LLM-based application. Google Scholar: [Follow Me!](https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&user=F1DUfAMAAAAJ)
+I am a second-year master's student at the Data Driven Software Technology (DDST) Laboratory of Shanghai Jiao Tong University, focusing on RAG, Context Engineering, and LLM-based applications. Google Scholar: [Follow Me!](https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&user=F1DUfAMAAAAJ)
 
 # 🔥 News
 - *2025.09*: &nbsp;🎉🎉 Our paper accepted to NeurIPS 2025.
