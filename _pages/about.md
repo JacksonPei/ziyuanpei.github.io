@@ -31,7 +31,7 @@ I am a second-year master's student at the Data Driven Software Technology (DDST
 
 Jiale Deng, Yanyan Shen, **Ziyuan Pei**, Youmin Chen, Linpeng Huang
 
-[**Project**]([https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=F1DUfAMAAAAJ&citation_for_view=F1DUfAMAAAAJ:YsMSGLbcyi4C)) <strong><span class='show_paper_citations' data='F1DUfAMAAAAJ:YsMSGLbcyi4C'></span></strong>
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=F1DUfAMAAAAJ&citation_for_view=F1DUfAMAAAAJ:YsMSGLbcyi4C) <strong><span class='show_paper_citations' data='F1DUfAMAAAAJ:YsMSGLbcyi4C'></span></strong>
 - Proposes a method for automatic context document selection in the RAG scenario called CSM. Specifically, we introduce the use of Contextual Influence (CI) values to measure the usefulness of contexts. Two training methods, Supervised training and end-to-end training, are employed to train the CSM model to predict context CI values. During inference, CSM predicts the CI values for all contexts and selects those with CI values greater than 0. We provide extensive experimental evidence demonstrating the effectiveness of CSM. 
 </div>
 </div>
